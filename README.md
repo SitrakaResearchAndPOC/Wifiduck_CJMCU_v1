@@ -54,7 +54,7 @@ This is a wifiduck using version v1 (with locale option for languages of keyboar
 * Test this script ducky :
 ```
 LOCALE FR
-DELAY 100
+DEFAULTDELAY 100
 
 WINDOWS r
 STRING notepad.exe
