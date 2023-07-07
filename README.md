@@ -50,7 +50,7 @@ This is a wifiduck using version v1 (with locale option for languages of keyboar
 # Using wifiduck
 * Reuplug the wifiduck
 * Finding wifi network name <i>wifiduk</i> and password <i>wifiduck</i>
-* On broswer tape : http://192.168.4.1
+* On broswer enter : http://192.168.4.1
 * Test this script ducky :
 ```
 LOCALE FR
