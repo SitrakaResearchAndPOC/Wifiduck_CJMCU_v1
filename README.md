@@ -29,7 +29,7 @@ This is a wifiduck using version v1 (with locale option for languages of keyboar
 * Launch ESP8266Flasher.exe
 
 # Flashing malduino_w_esp8266_v1.1.0
-* Download Arduino and upload this code [step1](https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/step1.ino)  (select following port and type of board before uploading) 
+* Download Arduino and televersing this code [step1](https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/step1.ino)  (select following port and type of board before televersing) 
 * Connect The two pins as :
   
     <img src="https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/cjmcu2.jpeg" width="750px" align="center">
@@ -39,8 +39,8 @@ This is a wifiduck using version v1 (with locale option for languages of keyboar
 * In operation, Change port com as COMx
 * In config, change with the firmeware malduino_w_esp8266_v1.1.0.bin
 * In Advanced, change bauderate as Y at the first step
-* After successfull flashing, don't the two pins in the first step
-* Upload this code [atmega_duck.ino](https://drive.google.com/file/d/1zHDqU84Nn2bEMdnKmmQQGBDXHRQz9c20/view?usp=drive_link)  (select following port and type of board before uploading)
+* After successfull flashing, don't connect the two pins as the first step
+* Download and televerse this code [atmega_duck.ino](https://drive.google.com/file/d/1zHDqU84Nn2bEMdnKmmQQGBDXHRQz9c20/view?usp=drive_link)  (select following port and type of board before televersing)
 * Open arduino IDE and open the project atmega_duck/atmega_duck.ino
 * uncomment line 16 in config.h like this
 ```
