@@ -4,7 +4,7 @@ This is a wifiduck using version v1 (with locale option for languages of keyboar
 * Could be used to act as keyboard wireless with pre-programmed payload
 * Devices : wifiducky CJMCU, wifiducky DSTIKE, malduino W
 * Tested devices : wifiducky CJMCU
-* NOT STABLE ON DELAY FUNCTION BUT IT RUN
+* NOT STABLE ON DELAY DUCKY FUNCTION BUT IT RUNS
 <img src="https://github.com/SitrakaResearchAndPOC/Wifiduck_CJMCU_old/blob/main/cjmcu1.jpeg" width="250px" align="center">
 
 # Installing driver of USB (could be CP21x, FT23X, CH340G, PL23X)
